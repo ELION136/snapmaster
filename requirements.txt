@@ -1,0 +1,6 @@
+pyautogui
+opencv-python
+pillow
+python-docx
+docx2pdf
+pywin32; platform_system=="Windows"
