@@ -22,7 +22,6 @@ Ideal para estudiantes, profesionales y empresas que necesitan documentación vi
 ![Vista principal](assets/capture1.jpg)
 
 
-> 📂 Guarda tus capturas en la carpeta `assets/` y ajusta los nombres en este README.  
 
 ---
 
